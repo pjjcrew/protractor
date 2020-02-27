@@ -1,0 +1,1 @@
+var  store1 = new Map<string, string>();
